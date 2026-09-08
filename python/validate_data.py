@@ -47,9 +47,10 @@ visit_check = visits.merge(
     how="left"
 )
 
-# Visit before enrollment
+# Post-screening visit occurring before enrollment
 for _, row in visit_check[
-    visit_check["visit_date"] < visit_check["enrollment_date"]
+    (visit_check["visit_name"] != "Screening")
+    & (visit_check["visit_date"] < visit_check["enrollment_date"])
 ].iterrows():
     issues.append({
         "subject_id": row["subject_id"],
