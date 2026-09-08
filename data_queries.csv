@@ -1,0 +1,13 @@
+subject_id,dataset,issue
+SUB001,visits,Screening visit occurred before enrollment
+SUB002,visits,Screening visit occurred before enrollment
+SUB003,visits,Screening visit occurred before enrollment
+SUB004,visits,Screening visit occurred before enrollment
+SUB005,visits,Screening visit occurred before enrollment
+SUB006,visits,Screening visit occurred before enrollment
+SUB007,visits,Screening visit occurred before enrollment
+SUB008,visits,Screening visit occurred before enrollment
+SUB009,visits,Screening visit occurred before enrollment
+SUB010,visits,Screening visit occurred before enrollment
+SUB001,labs,Hemoglobin outside expected range
+SUB003,adverse_events,Adverse event resolution date precedes onset date
