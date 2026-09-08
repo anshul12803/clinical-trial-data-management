@@ -1,7 +1,7 @@
 lab_id,subject_id,visit_name,test_name,result,unit
 L001,SUB001,Baseline,Hemoglobin,142,g/L
 L002,SUB001,Baseline,WBC,6.4,10^9/L
-L003,SUB001,Week 4,Hemoglobin,138,g/L
+L003,SUB001,Week 4,Hemoglobin,500,g/L
 L004,SUB001,Week 4,WBC,6.8,10^9/L
 L005,SUB002,Baseline,Hemoglobin,151,g/L
 L006,SUB002,Baseline,WBC,7.2,10^9/L
