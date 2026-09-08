@@ -1,0 +1,11 @@
+ae_id,subject_id,event_term,onset_date,resolution_date,severity,serious
+AE001,SUB001,Nausea,2026-01-15,2026-01-18,Mild,N
+AE002,SUB002,Fatigue,2026-01-20,2026-01-25,Moderate,N
+AE003,SUB003,Headache,2026-01-22,2026-01-23,Mild,N
+AE004,SUB004,Nausea,2026-01-28,2026-02-02,Moderate,N
+AE005,SUB005,Dizziness,2026-02-01,2026-02-03,Mild,N
+AE006,SUB006,Fatigue,2026-02-05,2026-02-12,Moderate,N
+AE007,SUB007,Fever,2026-02-08,2026-02-10,Moderate,N
+AE008,SUB008,Headache,2026-02-12,2026-02-13,Mild,N
+AE009,SUB009,Nausea,2026-02-16,2026-02-20,Moderate,N
+AE010,SUB010,Fatigue,2026-02-20,2026-02-26,Mild,N
