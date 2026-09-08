@@ -1,0 +1,41 @@
+visit_id,subject_id,visit_name,visit_date,status
+V001,SUB001,Screening,2026-01-02,Completed
+V002,SUB001,Baseline,2026-01-05,Completed
+V003,SUB001,Week 4,2026-02-02,Completed
+V004,SUB001,Week 8,2026-03-02,Completed
+V005,SUB002,Screening,2026-01-04,Completed
+V006,SUB002,Baseline,2026-01-07,Completed
+V007,SUB002,Week 4,2026-02-04,Completed
+V008,SUB002,Week 8,2026-03-04,Completed
+V009,SUB003,Screening,2026-01-06,Completed
+V010,SUB003,Baseline,2026-01-09,Completed
+V011,SUB003,Week 4,2026-02-06,Completed
+V012,SUB003,Week 8,2026-03-06,Completed
+V013,SUB004,Screening,2026-01-09,Completed
+V014,SUB004,Baseline,2026-01-12,Completed
+V015,SUB004,Week 4,2026-02-09,Completed
+V016,SUB004,Week 8,2026-03-09,Completed
+V017,SUB005,Screening,2026-01-11,Completed
+V018,SUB005,Baseline,2026-01-14,Completed
+V019,SUB005,Week 4,2026-02-11,Completed
+V020,SUB005,Week 8,2026-03-11,Completed
+V021,SUB006,Screening,2026-01-15,Completed
+V022,SUB006,Baseline,2026-01-18,Completed
+V023,SUB006,Week 4,2026-02-15,Completed
+V024,SUB006,Week 8,2026-03-15,Completed
+V025,SUB007,Screening,2026-01-17,Completed
+V026,SUB007,Baseline,2026-01-20,Completed
+V027,SUB007,Week 4,2026-02-17,Completed
+V028,SUB007,Week 8,2026-03-17,Completed
+V029,SUB008,Screening,2026-01-19,Completed
+V030,SUB008,Baseline,2026-01-22,Completed
+V031,SUB008,Week 4,2026-02-19,Completed
+V032,SUB008,Week 8,2026-03-19,Completed
+V033,SUB009,Screening,2026-01-22,Completed
+V034,SUB009,Baseline,2026-01-25,Completed
+V035,SUB009,Week 4,2026-02-22,Completed
+V036,SUB009,Week 8,2026-03-22,Completed
+V037,SUB010,Screening,2026-01-24,Completed
+V038,SUB010,Baseline,2026-01-27,Completed
+V039,SUB010,Week 4,2026-02-24,Completed
+V040,SUB010,Week 8,2026-03-24,Completed
