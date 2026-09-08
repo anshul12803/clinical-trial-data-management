@@ -1,0 +1,21 @@
+lab_id,subject_id,visit_name,test_name,result,unit
+L001,SUB001,Baseline,Hemoglobin,142,g/L
+L002,SUB001,Baseline,WBC,6.4,10^9/L
+L003,SUB001,Week 4,Hemoglobin,138,g/L
+L004,SUB001,Week 4,WBC,6.8,10^9/L
+L005,SUB002,Baseline,Hemoglobin,151,g/L
+L006,SUB002,Baseline,WBC,7.2,10^9/L
+L007,SUB002,Week 4,Hemoglobin,147,g/L
+L008,SUB002,Week 4,WBC,7.5,10^9/L
+L009,SUB003,Baseline,Hemoglobin,129,g/L
+L010,SUB003,Baseline,WBC,5.9,10^9/L
+L011,SUB003,Week 4,Hemoglobin,126,g/L
+L012,SUB003,Week 4,WBC,6.1,10^9/L
+L013,SUB004,Baseline,Hemoglobin,145,g/L
+L014,SUB004,Baseline,WBC,8.0,10^9/L
+L015,SUB004,Week 4,Hemoglobin,140,g/L
+L016,SUB004,Week 4,WBC,7.7,10^9/L
+L017,SUB005,Baseline,Hemoglobin,134,g/L
+L018,SUB005,Baseline,WBC,6.6,10^9/L
+L019,SUB005,Week 4,Hemoglobin,131,g/L
+L020,SUB005,Week 4,WBC,6.9,10^9/L
